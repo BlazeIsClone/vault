@@ -11,11 +11,24 @@
             "id": "18626d4814fa6b5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "cadb4a5eb102b9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typography/type-foundries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "typography/type-foundries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "typography/type-foundries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "typography/type-foundries.md"
+              }
             }
           }
         ]
@@ -131,6 +148,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "36bf03f7996e6c3a",
-  "lastOpenFiles": []
+  "active": "cadb4a5eb102b9f6",
+  "lastOpenFiles": [
+    "www.fontshare.com.md",
+    "typography/type-foundries.md",
+    "First Note.md"
+  ]
 }
