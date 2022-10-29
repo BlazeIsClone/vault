@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typography/Type Foundries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acbfe850bee4cc81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Portfolio/Projects Upto 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91b596be243133c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Tech Stacks/Nov 2022.md",
                 "mode": "source",
                 "source": false
@@ -44,19 +20,91 @@
             }
           },
           {
-            "id": "84117f60f096a1ac",
+            "id": "fb3fb6deae5ab08a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Stacks/Nov 2022.md",
+                "file": "Frontend/React/Server Side Rendering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6cbb27a1314bbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NextJS/Next For Backend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c32761abb7e8f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Serverless/Websockets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9270fe6fb7fc192b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Serverless/CRON Jobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a12aafd578252274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Serverless/Event Queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "575e7caa4f4dcccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Serverless/Websockets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e5ea7cd74428bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User Interface Design/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -106,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
     "id": "6f51b4c0b621f380",
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Stacks/Nov 2022.md",
+                "file": "User Interface Design/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Stacks/Nov 2022.md",
+                "file": "User Interface Design/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Stacks/Nov 2022.md"
+                "file": "User Interface Design/Resources.md"
               }
             }
           }
@@ -176,13 +224,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "84117f60f096a1ac",
+  "active": "4e5ea7cd74428bf8",
   "lastOpenFiles": [
-    "Tech Stacks/Oct 2022.md",
+    "User Interface Design/Resources.md",
+    "Frontend/Serverless/Websockets.md",
+    "Frontend/Serverless/Event Queues.md",
+    "Frontend/Serverless/Large File Storage (LFS).md",
+    "Frontend/Serverless/CRON Jobs.md",
+    "NextJS/Next For Backend.md",
+    "Frontend/React/Server Side Rendering.md",
     "Tech Stacks/Nov 2022.md",
-    "Portfolio/Projects Upto 2022.md",
-    "Typography/Type Foundries.md",
-    "www.fontshare.com.md",
-    "First Note.md"
+    "Tech Stacks/Oct 2022.md",
+    "Typography/Type Foundries.md"
   ]
 }

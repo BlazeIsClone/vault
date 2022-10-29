@@ -1,0 +1,1 @@
+[Design Good Practices](https://goodpractices.design/) - Guidelines to naming conventions, components structure and document organization
