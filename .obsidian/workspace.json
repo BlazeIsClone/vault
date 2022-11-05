@@ -14,18 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "1c4b4f19452dbe31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freelance/Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -142,15 +130,15 @@
   },
   "active": "310fcd3944bee3f1",
   "lastOpenFiles": [
+    "Frontend/Libraries/Editor Tools.md",
+    "Roadtrips/About Tech.md",
+    "Roadtrips/A Tourist.md",
+    "Roadtrips/Heartfelt Intensity.md",
+    "Roadtrips/The Unkown.md",
     "Freelance/Services.md",
-    "Frontend/Tech Stacks.md",
-    "Tech Stacks/Oct 2022.md",
-    "Frontend/React/Server Side Rendering.md",
-    "Tech Stacks/Nov 2022.md",
-    "NextJS/Next For Backend.md",
-    "Frontend/Serverless/Websockets.md",
-    "Frontend/Serverless/CRON Jobs.md",
-    "Frontend/Serverless/Event Queues.md",
-    "User Interface Design/Resources.md"
+    "Linux/Command Snippets/PHP & Composer.md",
+    "Frontend/Frameworks/Apps.md",
+    "Frontend/Snippets/CSS/Form Autofill.md",
+    "Frontend/Tech Stacks.md"
   ]
 }
