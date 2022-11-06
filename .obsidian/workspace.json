@@ -14,8 +14,45 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e5be6757115c0d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Security/Cheat Sheets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d108c18e6d8846a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Frameworks/NextJS/Next For Backend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c9ba3caefbb4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Anthane/Authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Anthane/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Anthane/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Anthane/Authentication.md"
+              }
             }
           }
         ]
@@ -128,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "310fcd3944bee3f1",
+  "active": "47c9ba3caefbb4bf",
   "lastOpenFiles": [
-    "Frontend/Libraries/Editor Tools.md",
-    "Roadtrips/About Tech.md",
-    "Roadtrips/A Tourist.md",
-    "Roadtrips/Heartfelt Intensity.md",
-    "Roadtrips/The Unkown.md",
-    "Freelance/Services.md",
-    "Linux/Command Snippets/PHP & Composer.md",
-    "Frontend/Frameworks/Apps.md",
-    "Frontend/Snippets/CSS/Form Autofill.md",
-    "Frontend/Tech Stacks.md"
+    "Projects/Anthane/Diagrams/workflow.png",
+    "Projects/Anthane/Diagrams/auth-flow.png",
+    "Projects/Anthane/Diagrams/services-link.png",
+    "Projects/Anthane/Diagrams/high-level.png",
+    "Projects/Anthane/Authentication.md",
+    "Backend/Frameworks/NextJS/Next For Backend.md",
+    "Portfolio/Projects Upto 2022.md",
+    "Backend/Security/Authentication.md",
+    "Backend/Security/Cheat Sheets.md",
+    "Frontend/Libraries/Editor Tools.md"
   ]
 }
