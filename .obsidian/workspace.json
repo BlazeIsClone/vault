@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0b00b6594b5aed",
+        "id": "193e76cf79a74da0",
         "type": "tabs",
         "children": [
           {
-            "id": "b05e39e5ab20b55f",
+            "id": "6eee3e9fa1b81e00",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b05e39e5ab20b55f",
+  "active": "6eee3e9fa1b81e00",
   "lastOpenFiles": [
+    "Projects/React CMS Bootstrap/Design.md",
+    "Backend/Security/Cheat Sheets.md",
+    "Backend/Frameworks/NextJS/Next For Backend.md",
+    "Frontend/Frameworks/Apps.md",
+    "Projects/Anthane/Authentication.md",
+    "Projects/React CMS Bootstrap/Diagram.png",
     "Linux/Command Snippets/Git.md",
     "Linux/Command Snippets/PHP & Composer.md",
     "Linux/Command Snippets/RSYNC.md",
-    "Tech Stacks/Nov 2022.md",
-    "README.md",
-    "Projects/Anthane/Authentication.md",
-    "Projects/Anthane/Diagrams/workflow.png",
-    "Projects/Anthane/Diagrams/auth-flow.png",
-    "Projects/Anthane/Diagrams/services-link.png",
-    "Projects/Anthane/Diagrams/high-level.png"
+    "Tech Stacks/Nov 2022.md"
   ]
 }
