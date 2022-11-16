@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "193e76cf79a74da0",
+        "id": "2142b8b673101a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "6eee3e9fa1b81e00",
+            "id": "2a085f29cf5fac96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Visa System/Design.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Visa System/Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Visa System/Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Visa System/Design.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6eee3e9fa1b81e00",
+  "active": "2a085f29cf5fac96",
   "lastOpenFiles": [
-    "Projects/React CMS Bootstrap/Design.md",
-    "Backend/Security/Cheat Sheets.md",
-    "Backend/Frameworks/NextJS/Next For Backend.md",
-    "Frontend/Frameworks/Apps.md",
+    "Projects/Visa System/code-pattern.png",
+    "Projects/Visa System/Design.md",
+    "Frontend/React/Server Side Rendering.md",
     "Projects/Anthane/Authentication.md",
+    "Projects/Anthane/Diagrams/auth-flow.png",
+    "Projects/Anthane/Diagrams/workflow.png",
+    "Projects/Anthane/Diagrams/high-level.png",
     "Projects/React CMS Bootstrap/Diagram.png",
-    "Linux/Command Snippets/Git.md",
-    "Linux/Command Snippets/PHP & Composer.md",
-    "Linux/Command Snippets/RSYNC.md",
-    "Tech Stacks/Nov 2022.md"
+    "Projects/React CMS Bootstrap/Design.md",
+    "Backend/Security/Cheat Sheets.md"
   ]
 }
