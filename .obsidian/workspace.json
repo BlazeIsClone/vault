@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2142b8b673101a9d",
+        "id": "4a81a6888949a7a5",
         "type": "tabs",
         "children": [
           {
-            "id": "2a085f29cf5fac96",
+            "id": "701dca489eff11e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Visa System/Design.md",
+                "file": "User Interface Design/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Visa System/Design.md",
+                "file": "Backend/Frameworks/BlitzJS/Compatibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Visa System/Design.md",
+                "file": "Backend/Frameworks/BlitzJS/Compatibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Visa System/Design.md"
+                "file": "Backend/Frameworks/BlitzJS/Compatibility.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a085f29cf5fac96",
+  "active": "36bf03f7996e6c3a",
   "lastOpenFiles": [
-    "Projects/Visa System/code-pattern.png",
-    "Projects/Visa System/Design.md",
-    "Frontend/React/Server Side Rendering.md",
+    "User Interface Design/Resources.md",
     "Projects/Anthane/Authentication.md",
-    "Projects/Anthane/Diagrams/auth-flow.png",
-    "Projects/Anthane/Diagrams/workflow.png",
-    "Projects/Anthane/Diagrams/high-level.png",
+    "Backend/CMS.md",
+    "Linux/Command Snippets/PHP & Composer.md",
+    "Backend/AuthN & AuthZ/Solutions.md",
+    "Projects/React CMS Bootstrap/Architecture.md",
     "Projects/React CMS Bootstrap/Diagram.png",
-    "Projects/React CMS Bootstrap/Design.md",
-    "Backend/Security/Cheat Sheets.md"
+    "Projects/Visa System/Design.md",
+    "Projects/Visa System/code-pattern.png",
+    "Frontend/React/Server Side Rendering.md"
   ]
 }
