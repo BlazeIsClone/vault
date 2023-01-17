@@ -33,14 +33,78 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Watchtower.md",
+                "file": "Freelance/Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7fd7724ebd81250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/Oct 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa6a3e8394986323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/Jan 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09cc3bf4ff801d6f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4158d37c87134695",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "71b8513dac830b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Libraries/Editor Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b96180d69c2e62b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Libraries/Headless UI Libraries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -106,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Watchtower.md",
+                "file": "Frontend/Libraries/Headless UI Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Watchtower.md",
+                "file": "Frontend/Libraries/Headless UI Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Watchtower.md"
+                "file": "Frontend/Libraries/Headless UI Libraries.md"
               }
             }
           }
@@ -167,17 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bd092f73dfab45c",
+  "active": "b96180d69c2e62b3",
   "lastOpenFiles": [
-    "Linux/Command Snippets/PHP & Composer.md",
-    "Projects/Dark Roacher/Tech Stack.md",
-    "User Interface Design/Resources.md",
-    "Projects/Anthane/Authentication.md",
-    "Backend/CMS.md",
-    "Backend/AuthN & AuthZ/Solutions.md",
-    "Projects/React CMS Bootstrap/Architecture.md",
-    "Projects/React CMS Bootstrap/Diagram.png",
-    "Projects/Visa System/Design.md",
-    "Projects/Visa System/code-pattern.png"
+    "Frontend/Libraries/Editor Tools.md",
+    "Frontend/Libraries/Headless UI Libraries.md",
+    "Roadmap/Jan 2023.md",
+    "Roadmap/Nov 2022.md",
+    "Roadmap/Oct 2022.md",
+    "To Explore/Untitled.md",
+    "To Explore/Untitled 1.md",
+    "Freelance/Definitions by agencies.md",
+    "Freelance/Services.md",
+    "DevOps/Watchtower.md"
   ]
 }
