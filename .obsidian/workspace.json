@@ -4,107 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4a81a6888949a7a5",
+        "id": "b17fa1e4db2015b7",
         "type": "tabs",
         "children": [
           {
-            "id": "d189b40e72f2bcd9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0118dc96d8126fa3",
+            "id": "6dfe870121600848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Command Snippets/PHP & Composer.md",
+                "file": "Agency/Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bd092f73dfab45c",
+            "id": "cb452ba7155a1f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freelance/Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7fd7724ebd81250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap/Oct 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa6a3e8394986323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap/Jan 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09cc3bf4ff801d6f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4158d37c87134695",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "71b8513dac830b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Libraries/Editor Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b96180d69c2e62b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Libraries/Headless UI Libraries.md",
+                "file": "Agency/Definitions by agencies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Libraries/Headless UI Libraries.md",
+                "file": "Agency/Definitions by agencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Libraries/Headless UI Libraries.md",
+                "file": "Agency/Definitions by agencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Libraries/Headless UI Libraries.md"
+                "file": "Agency/Definitions by agencies.md"
               }
             }
           }
@@ -231,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b96180d69c2e62b3",
+  "active": "cb452ba7155a1f4c",
   "lastOpenFiles": [
-    "Frontend/Libraries/Editor Tools.md",
+    "Agency/Services.md",
+    "Agency/Definitions by agencies.md",
+    "Agency/Workflows/Web & Mobile.md",
+    "Projects/Laravel Bootstrap/Tech Stack.md",
+    "Linux/Command Snippets/Git.md",
     "Frontend/Libraries/Headless UI Libraries.md",
+    "Frontend/Libraries/Editor Tools.md",
     "Roadmap/Jan 2023.md",
     "Roadmap/Nov 2022.md",
-    "Roadmap/Oct 2022.md",
-    "To Explore/Untitled.md",
-    "To Explore/Untitled 1.md",
-    "Freelance/Definitions by agencies.md",
-    "Freelance/Services.md",
-    "DevOps/Watchtower.md"
+    "Roadmap/Oct 2022.md"
   ]
 }
