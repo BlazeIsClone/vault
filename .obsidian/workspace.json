@@ -8,77 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dfe870121600848",
+            "id": "9eed45e26f816262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap/Jan 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "202ad033d3e02a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Laravel Bootstrap/Tech Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70478b90aea1b9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Command Snippets/WordPress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de0962a7ec6ad11f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "413e59dacd816a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Command Snippets/Find.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc6ad395c655f31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Configuration/Permissions.md",
+                "file": "Linux/Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Configuration/Permissions.md",
+                "file": "Linux/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Configuration/Permissions.md",
+                "file": "Linux/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Configuration/Permissions.md"
+                "file": "Linux/Security.md"
               }
             }
           }
@@ -205,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc6ad395c655f31b",
+  "active": "9eed45e26f816262",
   "lastOpenFiles": [
-    "Linux/Command Snippets/Find.md",
     "Linux/Configuration/Permissions.md",
-    "Linux/Configuration",
+    "Linux/Command Snippets/Find.md",
+    "Linux/Command Snippets/WordPress.md",
     "Projects/Laravel Bootstrap/Tech Stack.md",
+    "Roadmap/Jan 2023.md",
+    "Linux/Security.md",
+    "Linux/Configuration",
     "Roadmap/Feb 2023.md",
     "Windows/Flush DNS Cache.md",
-    "Roadmap/Jan 2023.md",
     "Roadmap/Oct 2022.md",
     "Agency/Services.md",
     "Projects/Omniware Store/Technical Requirements.md",
