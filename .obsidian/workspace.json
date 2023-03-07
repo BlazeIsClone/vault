@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Frontend/React/Server Side Rendering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dc2f62b8d25417e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Linux/Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,14 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eed45e26f816262",
+  "active": "4dc2f62b8d25417e",
   "lastOpenFiles": [
     "Linux/Configuration/Permissions.md",
+    "Linux/Configuration/Nginx Sub-directory Configuration.md",
+    "Frontend/React/Server Side Rendering.md",
+    "Frontend/Frameworks/Apps.md",
+    "DevOps/Watchtower.md",
+    "Linux/Security.md",
     "Linux/Command Snippets/Find.md",
     "Linux/Command Snippets/WordPress.md",
     "Projects/Laravel Bootstrap/Tech Stack.md",
     "Roadmap/Jan 2023.md",
-    "Linux/Security.md",
     "Linux/Configuration",
     "Roadmap/Feb 2023.md",
     "Windows/Flush DNS Cache.md",

@@ -11,4 +11,10 @@ Date: Thu, 05 Sep 2019 17:50:24 GMT
 Content-Type: text/html
 ```
 
+### Disallow direct access to server
+
+Most of the websites don’t use an SSL Certificate to secure their root server’s IP-address.  And, it allows the user to access the website without an SSL Certificate. In malware communication such connections can be used to download payloads or for subsequent C2 communications or P2P botnet connections.
+
 ### Use AppArmor to implement name based access controls.
+
+### Domain based php-fpm processors
