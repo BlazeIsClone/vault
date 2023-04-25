@@ -18,3 +18,7 @@ Most of the websites donâ€™t use an SSL Certificate to secure their root serverâ
 ### Use AppArmor to implement name based access controls.
 
 ### Domain based php-fpm processors
+
+## Disable Root Login
+
+https://www.digitalocean.com/community/tutorials/how-to-disable-root-login-on-ubuntu-20-04
