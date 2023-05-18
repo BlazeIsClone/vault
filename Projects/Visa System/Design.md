@@ -22,3 +22,7 @@ Use AJAX for posting data then the server validates the data and return default 
 File uploads shouldn't be done synchronously as default form submissions since we are dealing with almost 50MB of data for a single entry.  To fix this we can use AJAX but since this is a public facing form everytime a user uploads and don't submit the form are making unnecessary file storeage requests to the server. 
 
 The solution - use a hidden input field to submit a random attachment id for each attachement upload field.
+
+### Application Architecture
+
+![[code-pattern.png]]

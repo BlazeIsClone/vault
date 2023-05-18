@@ -11,9 +11,79 @@
             "id": "9eed45e26f816262",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Systems/Backups/diagram.png"
+              }
+            }
+          },
+          {
+            "id": "1f5e430cab7e2272",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "023b7ede39c1be44",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a245202e6b8bfbf",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/React/Server Side Rendering.md",
+                "file": "Systems/Architecture/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc9a1e146a0afb80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/CMS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ba9c120b711459b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Studio/Definitions by agencies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47f865cda15bc5f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b125b8a75a70ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,6 +183,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d4d9abbe2df9ecae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -134,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Commit Cheat Sheet.md",
+                "file": "Systems/Architecture/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Commit Cheat Sheet.md",
+                "file": "Systems/Architecture/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Commit Cheat Sheet.md"
+                "file": "Systems/Architecture/Overview.md"
               }
             }
           }
@@ -195,30 +273,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36bf03f7996e6c3a",
+  "active": "1a245202e6b8bfbf",
   "lastOpenFiles": [
+    "Systems/Architecture/Overview.md",
+    "Systems/Architecture",
+    "Projects/Logs.md",
+    "Frontend/Frontend Overview.md",
+    "Design Studio/Definitions by agencies.md",
+    "README.md",
+    "Windows/Flush DNS Cache.md",
+    "Frontend/Serverless/Large File Storage (LFS).md",
+    "Roadmap/Roadmaps Overview.md",
+    "Roadmap/Oct 2022.md",
+    "Roadmap/Nov 2022.md",
+    "Roadmap/Feb 2023.md",
+    "Backend/CMS.md",
+    "Stories/Stories Overview.md",
+    "Stories/A Tourist.md",
+    "Stories/About Tech.md",
+    "Stories/Heartfelt Intensity.md",
+    "Stories/The Unkown.md",
+    "Projects/React CMS Bootstrap/Architecture.md",
+    "Projects/React CMS Bootstrap/Diagram.png",
+    "Projects/Visa System/Design.md",
+    "Systems/Backups/Application Backup System Architecture.md",
+    "Systems/Overview.md",
+    "Systems/Backups/diagram.png",
+    "Projects/Anthane/Authentication.md",
+    "Frontend/React/Server Side Rendering.md",
     "Linux/Configuration/Apache.md",
     "Development/Commit Cheat Sheet.md",
     "Development",
     "Linux/Command Snippets/PHP & Composer.md",
-    "Windows/Flush DNS Cache.md",
-    "Linux/Security.md",
-    "Linux/Cloud Architecture Requirements.md",
-    "Roadmap/Mar 2023.md",
-    "Roadmap/Feb 2023.md",
-    "Linux/Configuration/Permissions.md",
-    "Linux/Configuration/Nginx Sub-directory Configuration.md",
-    "Frontend/React/Server Side Rendering.md",
-    "Frontend/Frameworks/Apps.md",
-    "DevOps/Watchtower.md",
-    "Linux/Command Snippets/Find.md",
-    "Linux/Command Snippets/WordPress.md",
-    "Projects/Laravel Bootstrap/Tech Stack.md",
-    "Roadmap/Jan 2023.md",
     "Linux/Configuration",
-    "Roadmap/Oct 2022.md",
-    "Agency/Services.md",
-    "Projects/Omniware Store/Technical Requirements.md",
     "Projects/Omniware Store/omniware-shop.png",
     "Projects/Omniware Store/omniware-product-single.png",
     "Projects/Omniware Store/Untitled.canvas"
