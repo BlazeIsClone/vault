@@ -4,141 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b17fa1e4db2015b7",
+        "id": "665aff46a12b4888",
         "type": "tabs",
         "children": [
           {
-            "id": "9eed45e26f816262",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Systems/Backups/diagram.png"
-              }
-            }
-          },
-          {
-            "id": "1f5e430cab7e2272",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "023b7ede39c1be44",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1a245202e6b8bfbf",
+            "id": "02e073a56c9b0256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Architecture/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc9a1e146a0afb80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/CMS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ba9c120b711459b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Studio/Definitions by agencies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47f865cda15bc5f0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b125b8a75a70ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dc2f62b8d25417e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap/Feb 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d4919f0392ebc9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap/Mar 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194b881c8e08f230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Command Snippets/PHP & Composer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c8bf0997ad660ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Configuration/Apache.md",
+                "file": "Tech Stacks/Next Stack/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Architecture/Overview.md",
+                "file": "Tech Stacks/Next Stack/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/Architecture/Overview.md",
+                "file": "Tech Stacks/Next Stack/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Architecture/Overview.md"
+                "file": "Tech Stacks/Next Stack/Overview.md"
               }
             }
           }
@@ -273,41 +154,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a245202e6b8bfbf",
+  "active": "02e073a56c9b0256",
   "lastOpenFiles": [
+    "Tech Stacks/The Modern Web.md",
+    "Tech Stacks/Next Stack/Overview.md",
+    "Tech Stacks/Next Stack",
+    "Linux/Command Snippets/Purge Cache.md",
+    "Canvas/Untitled 1.canvas",
+    "Canvas/Pasted image 20230611211755.png",
+    "Canvas/Pasted image 20230601234334.png",
+    "Canvas/Pasted image 20230601233337.png",
+    "Networking/DNS Record Types.md",
+    "DevOps/Security/Tools.md",
+    "Networking",
+    "DevOps/Untitled",
+    "DevOps/Security/SSL-TLS/Generate a CSR (Certificate Signing Request).md",
+    "DevOps/Security/SSL-TLS/SSL Certificates Cheat-Sheet.md",
+    "DevOps/Security/SSL-TLS",
+    "Canvas/Pasted image 20230612061241.png",
+    "Canvas",
+    "Canvas/Pasted image 20230611213218.png",
+    "Canvas/Pasted image 20230611213036.png",
+    "Canvas/Pasted image 20230611212827.png",
+    "Canvas/Pasted image 20230611212103.png",
+    "Canvas/Pasted image 20230611212033.png",
+    "Canvas/Pasted image 20230611212028.png",
+    "DevOps/Security/Strict-Transport-Security (HSTS).md",
+    "Linux/Security.md",
+    "DevOps/Security/Content Security Policy (CSP).md",
+    "DevOps/Security/Permissions-Policy.md",
+    "DevOps/Security/Referrer-Policy.md",
+    "DevOps/Security/X-Content-Type-Options.md",
+    "DevOps/Security/X-Frame-Options.md",
+    "DevOps/Security/Headers",
+    "DevOps/Security/Images",
+    "DevOps/Performance/Metrics.md",
+    "DevOps/Security",
+    "DevOps/Performance",
+    "DevOps/Untitled.md",
+    "Untitled.canvas",
+    "DevOps/Deployments",
+    "2023-06-01.md",
+    "DevOps/Backups/Application Backup System Architecture.md",
+    "Systems/Overview.md",
     "Systems/Architecture/Overview.md",
-    "Systems/Architecture",
     "Projects/Logs.md",
     "Frontend/Frontend Overview.md",
     "Design Studio/Definitions by agencies.md",
     "README.md",
     "Windows/Flush DNS Cache.md",
     "Frontend/Serverless/Large File Storage (LFS).md",
-    "Roadmap/Roadmaps Overview.md",
-    "Roadmap/Oct 2022.md",
-    "Roadmap/Nov 2022.md",
-    "Roadmap/Feb 2023.md",
-    "Backend/CMS.md",
-    "Stories/Stories Overview.md",
-    "Stories/A Tourist.md",
-    "Stories/About Tech.md",
-    "Stories/Heartfelt Intensity.md",
-    "Stories/The Unkown.md",
-    "Projects/React CMS Bootstrap/Architecture.md",
-    "Projects/React CMS Bootstrap/Diagram.png",
-    "Projects/Visa System/Design.md",
-    "Systems/Backups/Application Backup System Architecture.md",
-    "Systems/Overview.md",
-    "Systems/Backups/diagram.png",
-    "Projects/Anthane/Authentication.md",
-    "Frontend/React/Server Side Rendering.md",
-    "Linux/Configuration/Apache.md",
-    "Development/Commit Cheat Sheet.md",
-    "Development",
-    "Linux/Command Snippets/PHP & Composer.md",
-    "Linux/Configuration",
-    "Projects/Omniware Store/omniware-shop.png",
-    "Projects/Omniware Store/omniware-product-single.png",
     "Projects/Omniware Store/Untitled.canvas"
   ]
 }

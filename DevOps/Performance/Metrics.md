@@ -1,0 +1,1 @@
+A single virtualized Intel core can typically perform up to 350 full 2048-bit SSL handshake operations per second.
