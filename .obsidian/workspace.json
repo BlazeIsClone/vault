@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Stacks/Next Stack/Overview.md",
+                "file": "DevOps/Server Naming Convention.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Stacks/Next Stack/Overview.md",
+                "file": "DevOps/Server Naming Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Stacks/Next Stack/Overview.md",
+                "file": "DevOps/Server Naming Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Stacks/Next Stack/Overview.md"
+                "file": "DevOps/Server Naming Convention.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "02e073a56c9b0256",
   "lastOpenFiles": [
-    "Tech Stacks/The Modern Web.md",
     "Tech Stacks/Next Stack/Overview.md",
+    "DevOps/Server Naming Convention.md",
+    "Tech Stacks/The Modern Web.md",
     "Tech Stacks/Next Stack",
     "Linux/Command Snippets/Purge Cache.md",
     "Canvas/Untitled 1.canvas",
@@ -191,7 +192,6 @@
     "DevOps/Performance/Metrics.md",
     "DevOps/Security",
     "DevOps/Performance",
-    "DevOps/Untitled.md",
     "Untitled.canvas",
     "DevOps/Deployments",
     "2023-06-01.md",
