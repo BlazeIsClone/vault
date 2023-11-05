@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "6fffe65db3418254",
+    "id": "d925b4814d05bbba",
     "type": "split",
     "children": [
       {
-        "id": "abbf40cb807eb4c9",
+        "id": "ae76a7eb286fbf43",
         "type": "tabs",
         "children": [
           {
-            "id": "011b4122c0ea4fa8",
+            "id": "f556034ecebaa3c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Vault/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "585f0b6f4e93af0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/System/Slow APT Upgrade Fix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5833865c100167f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Cloud Config v1.0.0 Release Note.md",
+                "file": "DevOps/Performance/Load Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ea6807ecc1ff7fc6",
+    "id": "f247ada796df489c",
     "type": "split",
     "children": [
       {
-        "id": "2c42b97473f11f8d",
+        "id": "e9038e608b9b5e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "36bf03f7996e6c3a",
+            "id": "c4edd45241512884",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "92ed10e69da4e586",
+            "id": "17018353d891e331",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,15 +58,7 @@
             }
           },
           {
-            "id": "8610949e7ed99c0e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4d9abbe2df9ecae",
+            "id": "978a3abf158b807f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 300
   },
   "right": {
-    "id": "6f51b4c0b621f380",
+    "id": "b874619c0609ffdc",
     "type": "split",
     "children": [
       {
-        "id": "009fe21583272971",
+        "id": "70844ca62610cee7",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4538b2ec255241",
+            "id": "d1cbf658066153be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Cloud Config v1.0.0 Release Note.md",
+                "file": "DevOps/Performance/Load Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +97,19 @@
             }
           },
           {
-            "id": "dae1f621d51320e6",
+            "id": "c6be3bcd6311bac7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Cloud Config v1.0.0 Release Note.md",
+                "file": "DevOps/Performance/Load Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "65775ead26586b15",
+            "id": "e6dfb6b850f5904b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,17 +120,17 @@
             }
           },
           {
-            "id": "b3310242a3e4b199",
+            "id": "ee00562f41c1b9cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Cloud Config v1.0.0 Release Note.md"
+                "file": "DevOps/Performance/Load Testing.md"
               }
             }
           },
           {
-            "id": "fd8fdf4793d0bc8b",
+            "id": "bf02d42f6a162160",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,56 +156,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5833865c100167f2",
+  "active": "f556034ecebaa3c6",
   "lastOpenFiles": [
-    "Projects/Vault/Overview.md",
-    "DevOps/Cloud Config v1.0.0 Release Note.md",
-    "DevOps/Watchtower.md",
-    "DevOps/Server Naming Convention.md",
-    "DevOps/System/Slow APT Upgrade Fix.md",
+    "DevOps/Performance/Metrics.md",
+    "DevOps/Deployments/deployments.png",
     "DevOps/Cloud Platforms/Google Cloud Platform (GCP).md",
-    "DevOps/System",
-    "DevOps/Cloud Platforms",
-    "DevOps/Security/Referrer-Policy.md",
-    "Projects/Vault",
-    "Projects/Logs.md",
-    "DevOps/Security/Permissions-Policy.md",
-    "DevOps/Security/Strict-Transport-Security (HSTS).md",
-    "DevOps/Security/X-Frame-Options.md",
-    "DevOps/Security/X-Content-Type-Options.md",
-    "DevOps/Security/Tools.md",
-    "DevOps/Security/Content Security Policy (CSP).md",
+    "DevOps/Performance/Load Testing.md",
+    "DevOps/Cloud Config Specification.md",
+    "Roadmap/Feb 2023.md",
+    "Roadmap/Jan 2023.md",
+    "Roadmap/Roadmaps Overview.md",
+    "Roadmap/Oct 2023.md",
+    "Roadmap/Oct 2023",
+    "Roadmap/Mar 2023.md",
+    "Roadmap/Nov 2022.md",
+    "Roadmap/Oct 2022.md",
+    "Frontend/Serverless/Large File Storage (LFS).md",
+    "Projects/Morf Web/Project Spec.md",
+    "Projects/Morf Web",
+    "Windows/Flush DNS Cache.md",
+    "Windows",
+    "User Interface Design/Resources.md",
+    "User Interface Design",
+    "Typography/Type Foundries.md",
+    "Typography",
     "Tech Stacks/Next Stack/Serverless.md",
     "Tech Stacks/Next Stack/Overview.md",
-    "DevOps/WordPress/Migration Guide.md",
-    "DevOps/WordPress",
     "Tech Stacks/The Modern Web.md",
     "Tech Stacks/Next Stack",
-    "Linux/Command Snippets/Purge Cache.md",
-    "Canvas/Untitled 1.canvas",
-    "Canvas/Pasted image 20230611211755.png",
-    "Canvas/Pasted image 20230601234334.png",
-    "Canvas/Pasted image 20230601233337.png",
-    "Networking/DNS Record Types.md",
-    "Networking",
-    "DevOps/Security/SSL-TLS/Generate a CSR (Certificate Signing Request).md",
-    "DevOps/Security/SSL-TLS/SSL Certificates Cheat-Sheet.md",
-    "DevOps/Security/SSL-TLS",
-    "Canvas/Pasted image 20230612061241.png",
-    "Canvas",
-    "Canvas/Pasted image 20230611213218.png",
-    "Canvas/Pasted image 20230611213036.png",
-    "Canvas/Pasted image 20230611212827.png",
-    "Canvas/Pasted image 20230611212103.png",
-    "Canvas/Pasted image 20230611212033.png",
-    "Canvas/Pasted image 20230611212028.png",
-    "Linux/Security.md",
-    "DevOps/Security/Headers",
-    "DevOps/Security/Images",
-    "DevOps/Performance/Metrics.md",
-    "Untitled.canvas",
-    "2023-06-01.md",
-    "DevOps/Backups/Application Backup System Architecture.md",
-    "Projects/Omniware Store/Untitled.canvas"
+    "Tech Stacks",
+    "Systems/Architecture/Overview.md",
+    "Systems/Overview.md",
+    "Systems/Architecture",
+    "Systems",
+    "Stories/The Unkown.md",
+    "Stories/Stories Overview.md",
+    "Stories/Heartfelt Intensity.md",
+    "Stories/About Tech.md",
+    "Stories",
+    "Projects/Anthane/Diagrams/workflow.png",
+    "Projects/Anthane/Diagrams/services-link.png",
+    "Projects/Anthane/Diagrams/high-level.png",
+    "Projects/Anthane/Diagrams/auth-flow.png",
+    "Projects/Visa System/code-pattern.png",
+    "Projects/React CMS Bootstrap/Diagram.png",
+    "Projects/Omniware Store/omniware-shop.png",
+    "Projects/Omniware Store/omniware-product-single.png",
+    "Projects/Omniware Store/diagram.png"
   ]
 }
