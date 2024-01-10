@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/DNS Record Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59bb3eaa8ebf1b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Branding/Work.md",
+                "file": "DevOps/Cloud Config/Cloud Config Specification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Branding/Work.md",
+                "file": "DevOps/Cloud Config/Cloud Config Specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Branding/Work.md",
+                "file": "DevOps/Cloud Config/Cloud Config Specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Branding/Work.md"
+                "file": "DevOps/Cloud Config/Cloud Config Specification.md"
               }
             }
           },
@@ -148,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -169,17 +158,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59bb3eaa8ebf1b06",
+  "active": "c4edd45241512884",
   "lastOpenFiles": [
-    "Personal Branding",
+    "DevOps/Cloud Config/images/Untitled-2023-10-08-0145.png",
+    "DevOps/Cloud Config/Cloud Config Specification.md",
     "Networking/DNS Record Types.md",
+    "DevOps/Cloud Config/images",
+    "DevOps/Cloud Config",
+    "DevOps/Watchtower.md",
+    "DevOps/Server Naming Convention.md",
+    "DevOps/Queue.md",
+    "Systems/Architecture/Overview.md",
+    "Roadmap/Dec 2023.md",
+    "Roadmap/Feb 2023.md",
+    "Roadmap/Nov 2023.md",
     "Personal Branding/Work.md",
+    "Personal Branding",
     "README.md",
     "Development/Commit Cheat Sheet.md",
     "Projects/Image Optimizer/Overview.md",
     "DevOps/Performance/Load Testing.md",
     "Projects/Image Optimizer",
-    "Roadmap/Nov 2023.md",
     "Roadmap/Oct 2023.md",
     "Roadmap/Oct 2022.md",
     "Roadmap/Roadmaps Overview.md",
@@ -192,30 +191,19 @@
     "DevOps/Performance/Metrics.md",
     "DevOps/Deployments/deployments.png",
     "DevOps/Cloud Platforms/Google Cloud Platform (GCP).md",
-    "DevOps/Cloud Config Specification.md",
-    "Roadmap/Feb 2023.md",
     "Roadmap/Jan 2023.md",
     "Roadmap/Oct 2023",
     "Roadmap/Mar 2023.md",
     "Roadmap/Nov 2022.md",
-    "Frontend/Serverless/Large File Storage (LFS).md",
-    "Projects/Morf Web/Project Spec.md",
     "Projects/Morf Web",
-    "Windows/Flush DNS Cache.md",
     "Windows",
-    "User Interface Design/Resources.md",
     "User Interface Design",
-    "Typography/Type Foundries.md",
     "Typography",
     "Tech Stacks/Next Stack",
-    "Tech Stacks",
-    "Systems/Architecture",
-    "Systems",
     "Projects/Anthane/Diagrams/workflow.png",
     "Projects/Anthane/Diagrams/services-link.png",
     "Projects/Anthane/Diagrams/high-level.png",
     "Projects/Anthane/Diagrams/auth-flow.png",
-    "Projects/Visa System/code-pattern.png",
-    "Projects/React CMS Bootstrap/Diagram.png"
+    "Projects/Visa System/code-pattern.png"
   ]
 }
