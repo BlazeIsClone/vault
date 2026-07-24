@@ -1,4 +1,4 @@
-FROM golang:1.24.4-alpine AS build
+FROM golang:1.26.2-alpine AS build
 RUN apk add --no-cache alpine-sdk
 
 WORKDIR /app
@@ -8,7 +8,7 @@ RUN go mod download
 
 COPY . .
 
-RUN CGO_ENABLED=1 GOOS=linux go build -o main cmd/api/main.go
+RUN go build -o main cmd/api/main.go
 
 FROM alpine:3.20.1 AS prod
 WORKDIR /app
@@ -17,16 +17,17 @@ EXPOSE ${PORT}
 CMD ["./main"]
 
 
-FROM node:20 AS frontend_builder
-WORKDIR /frontend
+FROM oven/bun:1 AS web_builder
+WORKDIR /web
 
-COPY frontend/package*.json ./
-RUN npm install
-COPY frontend/. .
-RUN npm run build
+COPY web/package.json web/bun.lock ./
+RUN bun install --frozen-lockfile
+COPY web/. .
+RUN bun run build
 
-FROM node:23-slim AS frontend
-RUN npm install -g serve
-COPY --from=frontend_builder /frontend/dist /app/dist
+FROM oven/bun:1-slim AS web
+WORKDIR /app
+COPY --from=web_builder /web/.output ./.output
+ENV PORT=5173
 EXPOSE 5173
-CMD ["serve", "-s", "/app/dist", "-l", "5173"]
+CMD ["bun", ".output/server/index.mjs"]
