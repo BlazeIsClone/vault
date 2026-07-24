@@ -1,6 +1,3 @@
-# Simple Makefile for a Go project
-
-# Build the application
 all: build test
 
 build:
@@ -9,12 +6,9 @@ build:
 	
 	@CGO_ENABLED=1 GOOS=linux go build -o main cmd/api/main.go
 
-# Run the application
 run:
-	@go run cmd/api/main.go &
-	@npm install --prefer-offline --no-fund --prefix ./frontend
-	@npm run dev --prefix ./frontend
-# Create DB container
+	@go run cmd/api/main.go
+
 docker-run:
 	@if docker compose up --build 2>/dev/null; then \
 		: ; \
@@ -23,7 +17,6 @@ docker-run:
 		docker-compose up --build; \
 	fi
 
-# Shutdown DB container
 docker-down:
 	@if docker compose down 2>/dev/null; then \
 		: ; \
@@ -32,17 +25,14 @@ docker-down:
 		docker-compose down; \
 	fi
 
-# Test the application
 test:
 	@echo "Testing..."
 	@go test ./... -v
 
-# Clean the binary
 clean:
 	@echo "Cleaning..."
 	@rm -f main
 
-# Live Reload
 watch:
 	@if command -v air > /dev/null; then \
             air; \
