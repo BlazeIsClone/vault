@@ -13,15 +13,6 @@ services:
       BLUEPRINT_DB_URL: ${BLUEPRINT_DB_URL}
     volumes:
       - sqlite_bp:/app/db
-  web:
-    build:
-      context: .
-      dockerfile: Dockerfile
-      target: web
-    restart: unless-stopped
-    ports:
-      - 3000:5173
-    depends_on:
-      - app
+
 volumes:
   sqlite_bp:
